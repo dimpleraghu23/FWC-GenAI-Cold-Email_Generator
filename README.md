@@ -27,3 +27,6 @@ Cold email generator for services company built with groq, langchain and streaml
    ```commandline
    streamlit run app/main.py
    ```
+
+## DISCLAIMER!
+This is a project done for a Hackathon and the websites used are strictly for example.
