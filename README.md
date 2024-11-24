@@ -6,11 +6,13 @@ Cold email generator for services company built with groq, langchain and streaml
 - Nike needs a Principal Software Engineer and is spending time and resources in the hiring process, on boarding, training etc.
 - FWC is an IT Software Services company that can provide a dedicated software development engineer to Nike. So, the business development executive (Dimple) from FWC is going to reach out to Nike via a cold email.
 
-![Alt text](images/img.png)
-![Alt text](images/e-mail.png)
+![img](https://github.com/user-attachments/assets/0753ccf4-c9a9-4e0c-9679-8f940acd7bab)
+![e-mail](https://github.com/user-attachments/assets/27146378-ce77-4fc2-942b-1f3177c398a7)
+
 
 ## Architecture Diagram
-![Alt text](images/architecture.png)
+![architecture](https://github.com/user-attachments/assets/5ca2e522-2817-4360-aea4-26eeae84f33b)
+
 
 ## Set-up
 1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside `app/.env` update the value of `GROQ_API_KEY` with the API_KEY you created. 
